@@ -10,9 +10,3 @@
 
 - Next.js and TypeScript full stack developer
 - [@memos](https://github.com/usememos/memos) team member
-
-**Where to find me**
-
-[My Blog](https://hyoban.cc) ·
-[Twitter](https://twitter.com/0xhyoban) ·
-[E-Mail](mailto:hi@hyoban.cc)

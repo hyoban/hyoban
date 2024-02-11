@@ -1,4 +1,5 @@
 <samp>
+  <a target="_blank" rel="noreferrer noopener" href="https://hyoban.cc">me</a> .
   <a target="_blank" rel="noreferrer noopener" href="https://hyoban.xlog.app">blog</a> .
   <a target="_blank" rel="noreferrer noopener" href="https://github.com/hyoban">github</a> .
   <a target="_blank" rel="noreferrer noopener" href="https://twitter.com/0xhyoban">tweets</a> .

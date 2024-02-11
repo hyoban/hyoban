@@ -1,7 +1,6 @@
 <samp>
   <a target="_blank" rel="noreferrer noopener" href="https://hyoban.cc">me</a> .
   <a target="_blank" rel="noreferrer noopener" href="https://hyoban.xlog.app">blog</a> .
-  <a target="_blank" rel="noreferrer noopener" href="https://github.com/hyoban">github</a> .
   <a target="_blank" rel="noreferrer noopener" href="https://twitter.com/0xhyoban">tweets</a> .
   <a target="_blank" rel="noreferrer noopener" href="mailto:hi@hyoban.cc">email</a> .
   <a target="_blank" rel="noreferrer noopener" href="https://gist.github.com/hyoban/7943d4c59c43b79d3f8388671437fe11">dotfiles</a>

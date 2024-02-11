@@ -1,4 +1,4 @@
-<samp>
+<samp align="center" >
   <a href="https://hyoban.xlog.app">blog</a> .
   <a href="https://twitter.com/0xhyoban">tweets</a> .
   <a href="https://gist.github.com/hyoban/7943d4c59c43b79d3f8388671437fe11">dotfiles</a>

@@ -1,10 +1,9 @@
 <samp>
   <a href="https://hyoban.cc">me</a> .
   <a href="https://hyoban.xlog.app">blog</a> .
-  <a href="https://twitter.com/0xhyoban">tweets</a> .
+  <a href="https://twitter.com/0xhyoban">x</a> .
   <a href="mailto:hi@hyoban.cc">email</a> .
-  <a href="https://gist.github.com/hyoban/7943d4c59c43b79d3f8388671437fe11">dotfiles</a> .
-  <a href="https://gist.github.com/hyoban/5e2270371d743ddb10b4f427017babc3">dev</a>
+  <a href="https://gist.github.com/hyoban/7943d4c59c43b79d3f8388671437fe11">dotfile</a>
 </samp>
 
 <picture>

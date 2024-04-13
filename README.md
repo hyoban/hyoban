@@ -9,7 +9,7 @@
     align="right" />
 </picture>
 
-**Latest Posts on [xLog](https://xlog.app)**
+#### Latest Posts on [xLog](https://xlog.app)
 
 <!-- feed start -->
 - Mar 19 - [xLog SDK 的一些进展](https://xlog.app/api/redirection?characterId=51657&noteId=45)

@@ -5,6 +5,10 @@
   <a href="https://gist.github.com/hyoban/7943d4c59c43b79d3f8388671437fe11">dotfile</a>
 </samp>
 
+### Latest Posts
+<!-- feed start -->
+<!-- feed end -->
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&hide=commits&theme=github_dark"

@@ -1,15 +1,13 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&rank_icon=percentile"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&rank_icon=percentile"
     align="right" />
 </picture>
-
-#### Latest Posts on [xLog](https://xlog.app)
 
 <!-- feed start -->
 - Mar 19 - [xLog SDK 的一些进展](https://xlog.app/api/redirection?characterId=51657&noteId=45)

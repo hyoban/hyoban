@@ -1,11 +1,11 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&rank_icon=percentile"
+    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=percentile&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&rank_icon=percentile"
+    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&include_all_commits=true&count_private=true&rank_icon=percentile&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&rank_icon=percentile"
+  <img src="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&include_all_commits=true&count_private=true&rank_icon=percentile&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
     align="right" />
 </picture>
 

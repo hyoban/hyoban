@@ -9,6 +9,8 @@
     align="right" />
 </picture>
 
+#### Latest Posts on [xLog](https://xlog.app)
+
 <!-- feed start -->
 - Mar 19 - [xLog SDK 的一些进展](https://xlog.app/api/redirection?characterId=51657&noteId=45)
 - Feb 15 - [我如何开始写一个 TypeScript 库](https://xlog.app/api/redirection?characterId=51657&noteId=18)

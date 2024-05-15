@@ -18,3 +18,13 @@
 - Sep 30 - [写在 24 岁之前](https://xlog.app/api/redirection?characterId=51657&noteId=7)
 - Aug 16 - [你可以用 Tailwind 来学习 CSS](https://xlog.app/api/redirection?characterId=51657&noteId=5)
 <!-- feed end -->
+
+<br />
+
+**Thanks to the following people for supporting my open-source work! 💖**
+
+<p align="center">
+  <a href="https://github.com/hyoban/sponsors">
+    <img src="https://raw.githubusercontent.com/hyoban/sponsors/main/sponsorkit/sponsors.svg" />
+  </a>
+</p>

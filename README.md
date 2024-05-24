@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&theme=github_dark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
     media="(prefers-color-scheme: dark)" />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hyoban&hide_border=true&hide_title=true&disable_animations=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"

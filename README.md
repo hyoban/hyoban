@@ -12,11 +12,11 @@
 **Latest Posts on [xLog](https://xlog.app)**
 
 <!-- feed start -->
+- Jul 29 - [主题系统、Local-First](https://xlog.app/api/redirection?characterId=51657&noteId=59)
 - Jul 22 - [Re: 从零开始的 React Native 之旅（一）](https://xlog.app/api/redirection?characterId=51657&noteId=58)
 - May 18 - [为什么是 ESLint](https://xlog.app/api/redirection?characterId=51657&noteId=57)
 - Mar 19 - [xLog SDK 的一些进展](https://xlog.app/api/redirection?characterId=51657&noteId=45)
 - Feb 15 - [我如何开始写一个 TypeScript 库](https://xlog.app/api/redirection?characterId=51657&noteId=18)
-- Jan 04 - [实现一个满意的深色模式切换按钮](https://xlog.app/api/redirection?characterId=51657&noteId=15)
 <!-- feed end -->
 
 <br />

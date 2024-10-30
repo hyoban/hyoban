@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="https://github.com/hyoban/sponsors">
-    <img src="https://raw.githubusercontent.com/hyoban/sponsors/main/sponsorkit/sponsors.svg" />
+    <img src='https://cdn.jsdelivr.net/gh/hyoban/sponsors/sponsorkit/sponsors.svg'/>
   </a>
 </p>
